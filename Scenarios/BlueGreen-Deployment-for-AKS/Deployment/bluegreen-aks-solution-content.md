@@ -1,1 +1,0 @@
-This article has been moved to the Azure architecture center and be accessed here: [Blue-green deployment for AKS](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/blue-green-deployment-for-aks/blue-green-deployment-for-aks)
